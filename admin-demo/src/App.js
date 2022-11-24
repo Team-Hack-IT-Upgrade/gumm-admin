@@ -14,6 +14,7 @@ function App() {
         list={UserList}
         edit={UserEdit}
         create={UserCreate}
+        some='some'
       />
     </Admin>
   );
